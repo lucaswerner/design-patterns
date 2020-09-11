@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="298aaea5-7a1d-4fff-b395-893b156b4f54" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WqwIftWHzK9FvxR3ZrXctc495V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/br/com/patterns/observer" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Werner\Documents\projects\java\design-patterns\src\br\com\patterns\observer" />
+      <recent name="C:\Users\Werner\Documents\projects\java\design-patterns\src\br\com\patterns\builder" />
+      <recent name="C:\Users\Werner\Documents\projects\java\design-patterns\src\br\com\patterns\state" />
+      <recent name="C:\Users\Werner\Documents\projects\java\design-patterns\src\br\com\patterns\decorator" />
+      <recent name="C:\Users\Werner\Documents\projects\java\design-patterns\src\br\com\patterns\templateMethod" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TesteObserver">
+    <configuration name="TestaTemplateMethodDescontos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.patterns.templateMethod.TestaTemplateMethodDescontos" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.patterns.templateMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.patterns.builder.TesteBuilder" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.patterns.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteDeDescontoExtra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.patterns.state.TesteDeDescontoExtra" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.patterns.state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteDecoratorImpostos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.patterns.decorator.TesteDecoratorImpostos" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.patterns.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteObserver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.patterns.builder.TesteObserver" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.patterns.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestaTemplateMethodDescontos" />
+      <item itemvalue="Application.TesteBuilder" />
+      <item itemvalue="Application.TesteDeDescontoExtra" />
+      <item itemvalue="Application.TesteDecoratorImpostos" />
+      <item itemvalue="Application.TesteObserver" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteObserver" />
+        <item itemvalue="Application.TesteBuilder" />
+        <item itemvalue="Application.TesteDeDescontoExtra" />
+        <item itemvalue="Application.TesteDecoratorImpostos" />
+        <item itemvalue="Application.TestaTemplateMethodDescontos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="298aaea5-7a1d-4fff-b395-893b156b4f54" name="Default Changelist" comment="" />
+      <created>1579890354808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579890354808</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="558" y="0" width="458" height="578" key="#com.intellij.ide.util.MemberChooser" timestamp="1580268907175">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="558" y="0" width="458" height="578" key="#com.intellij.ide.util.MemberChooser/0.0.1504.963@0.0.1504.963" timestamp="1580268907175" />
+    <state x="483" y="0" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579898540085">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="483" y="0" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1504.963@0.0.1504.963" timestamp="1579898540085" />
+    <state x="533" y="200" key="FileChooserDialogImpl" timestamp="1580871052302">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="533" y="200" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1580871052302" />
+    <state width="1446" height="244" key="GridCell.Tab.0.bottom" timestamp="1580271123645">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1446" height="244" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1580271123645" />
+    <state width="1446" height="244" key="GridCell.Tab.0.center" timestamp="1580271123645">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1446" height="244" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1580271123645" />
+    <state width="1446" height="244" key="GridCell.Tab.0.left" timestamp="1580271123645">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1446" height="244" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1580271123645" />
+    <state width="1446" height="244" key="GridCell.Tab.0.right" timestamp="1580271123645">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1446" height="244" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1580271123645" />
+    <state x="428" y="182" key="NewModule_or_Project.wizard" timestamp="1580871079177">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="428" y="182" key="NewModule_or_Project.wizard/0.0.1504.963@0.0.1504.963" timestamp="1580871079177" />
+    <state x="254" y="0" key="SettingsEditor" timestamp="1579899691372">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="254" y="0" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1579899691372" />
+    <state x="449" y="307" key="com.intellij.ide.util.TipDialog" timestamp="1580871001473">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="449" y="307" key="com.intellij.ide.util.TipDialog/0.0.1504.963@0.0.1504.963" timestamp="1580871001473" />
+    <state x="448" y="0" width="739" height="606" key="find.popup" timestamp="1580268897725">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="448" y="0" width="739" height="606" key="find.popup/0.0.1504.963@0.0.1504.963" timestamp="1580268897725" />
+    <state x="202" y="0" key="new project wizard" timestamp="1580782559504">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="202" y="0" key="new project wizard/0.0.1504.963@0.0.1504.963" timestamp="1580782559504" />
+    <state x="394" y="208" width="700" height="530" key="recent.locations.popup" timestamp="1580095712934">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="394" y="208" width="700" height="530" key="recent.locations.popup/0.0.1504.963@0.0.1504.963" timestamp="1580095712934" />
+    <state x="409" y="102" key="run.anything.popup" timestamp="1580265954485">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="409" y="102" key="run.anything.popup/0.0.1504.963@0.0.1504.963" timestamp="1580265954485" />
+    <state x="415" y="73" width="672" height="678" key="search.everywhere.popup" timestamp="1579899436899">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="415" y="73" width="672" height="678" key="search.everywhere.popup/0.0.1504.963@0.0.1504.963" timestamp="1579899436899" />
+  </component>
+</project>
